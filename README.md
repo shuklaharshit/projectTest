@@ -2,9 +2,22 @@
 
 Checkout the live demo here [Assignment Demo](https://demoassignments.netlify.app/).
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
+This is a demo project built with beautiful UI using technologies such as
+- Reactjs
+- ReactAwesomeButton
+- Bigheads.io
+- Material UI 
+- Axios 
+- React-icons 
+
+This Project implements 2 feature, counter and Fetching a list from an api and displaying it in a beautiful UI.
+This projects Uses No App level state management Library
+It Features use of an app level state to achieve data manipulation 
+
+# Make Sure to give this app a Try !
+
 
 ### `npm start`
 
